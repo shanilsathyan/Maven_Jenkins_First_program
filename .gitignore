@@ -1,3 +1,9 @@
-/*
+# Ignore everything by default
+*
+
+# But NOT these:
 !.gitignore
-!my-app/
+!pom.xml
+!src/
+!src/**
+
